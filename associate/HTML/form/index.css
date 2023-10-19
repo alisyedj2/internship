@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(226, 226, 161);
+}
+h1{
+    margin-left: 40%;
+}
+div{
+    display: flex;
+    padding: 10px;
+}
+label{
+    padding: 10px;
+    width: 30%;
+    padding-left: 0%;
+}
+button{
+    padding: 10px;
+    margin: 10px;
+}
+form{
+    border: solid rgb(108, 114, 119);
+    width : 70%;
+    margin-left: 20%;
+    font-size: large;
+    background-color: aquamarine;
+}
+input{
+    width : 40%;
+}
